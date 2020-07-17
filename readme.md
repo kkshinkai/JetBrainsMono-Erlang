@@ -7,7 +7,7 @@ Change `settings.json` to this (in VSCode):
 
 ```json
 {
-    "editor.fontFamily": "JetBrains Mono"
+    "editor.fontFamily": "JetBrains Mono",
     "[erlang]": {
         "editor.fontFamily": "JetBrains Mono Erlang"
     }
